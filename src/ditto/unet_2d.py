@@ -1,3 +1,5 @@
+# Based on https://github.com/lucidrains/denoising-diffusion-pytorch
+
 import math
 from functools import partial
 
